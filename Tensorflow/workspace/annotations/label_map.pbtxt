@@ -1,0 +1,20 @@
+item { 
+	name:'AppBar'
+	id:1
+}
+item { 
+	name:'BottomBar'
+	id:2
+}
+item { 
+	name:'Button'
+	id:3
+}
+item { 
+	name:'IconButton'
+	id:4
+}
+item { 
+	name:'Input'
+	id:5
+}

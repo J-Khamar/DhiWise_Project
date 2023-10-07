@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IconButton</folder>
+	<filename>iconbutton_1.png</filename>
+	<path>C:\Users\jeetk\OneDrive\Desktop\Classes\IconButton\iconbutton_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>398</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IconButton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>51</ymin>
+			<xmax>61</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

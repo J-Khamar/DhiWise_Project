@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BottomBar</folder>
+	<filename>bottombar_16.png</filename>
+	<path>C:\Users\jeetk\OneDrive\Desktop\Classes\BottomBar\bottombar_16.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>722</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BottomBar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>636</ymin>
+			<xmax>334</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>

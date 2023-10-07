@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AppBar</folder>
+	<filename>appbar_16.png</filename>
+	<path>C:\Users\jeetk\OneDrive\Desktop\Classes\AppBar\appbar_16.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>862</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AppBar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>31</ymin>
+			<xmax>390</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

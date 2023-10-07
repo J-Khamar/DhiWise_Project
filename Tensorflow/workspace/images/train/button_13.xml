@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Button</folder>
+	<filename>button_13.png</filename>
+	<path>C:\Users\jeetk\OneDrive\Desktop\Classes\Button\button_13.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Button</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>405</ymin>
+			<xmax>285</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>
